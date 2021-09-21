@@ -3,6 +3,12 @@
     margin: 20px;
     text-align: center;
     padding: 20px;
-    background-color: lightcoral;
-
+    background-color: #e0fbfc;
+    border-radius: 10%;
+    color: black;
+    &__img{
+        width: 100px;
+    }
 }
+
+
