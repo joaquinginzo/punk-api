@@ -1,0 +1,13 @@
+.NavBar{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 16vw;
+    height: 100%;
+    &__item{
+        margin: 50px 20px;
+        text-align: center;
+    }
+    background-color:  #ee6c4d;
+}

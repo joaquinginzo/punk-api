@@ -1,17 +1,6 @@
 .App{
     display: flex;
+    background-color: #3d5a80;
+    height: 100%;
 }
 
-.NavBar{
-    position: fixed;
-    display: flex;
-    flex-direction: column;
-    border: 1px solid black;
-    width: 10vw;
-    height: 100vh;
-    &__item{
-        margin: 50px 20px;
-        text-align: center;
-    }
-    background-color:  #ee6c4d;
-}
